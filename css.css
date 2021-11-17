@@ -1,0 +1,23 @@
+body {
+    background-color : #e6e3da;
+}
+
+header {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 25px;
+    padding: 0px;
+}
+
+nav {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+}
+
+.navigation {
+    display : inline;
+    margin-right: 10px;
+}
+
