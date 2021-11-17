@@ -4,6 +4,9 @@ body {
 
 header {
     font-family: 'Permanent Marker', cursive;
+    background-image: url("images/marvel_group1.jpg");
+    background-size: 1300px 150px;
+    color:pink;
     font-size: 25px;
     padding: 0px;
 }
@@ -13,11 +16,20 @@ nav {
     background-color: black;
     padding-top: 5px;
     padding-bottom: 5px;
-    color: white;
 }
 
 .navigation {
     display : inline;
     margin-right: 10px;
+}
+
+a {
+    color: #d4d4d4;
+    text-decoration: none;
+}
+
+a:hover{
+    color : white;
+    font-size: 23px;
 }
 
