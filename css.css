@@ -73,3 +73,19 @@ a:hover{
     font-weight: bold;
 }
 
+@media screen and (max-width: 768px){
+   .catlog > img {
+       width: 100%;
+   }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1200px){
+   
+}
+
+@media screen and (min-width: 1201px){
+   
+}
+
+
+
